@@ -1,0 +1,8 @@
+
+task_id,task_name,assigned_to,status,priority,due_date
+1,Hotel Search,Rahaf,Completed,High,2026-10-20
+2,Date Picker,Rahaf,Completed,High,2026-10-22
+3,Reservation Cancellation,Rahaf,Completed,High,2026-10-24
+4,Payment Integration,Teammate A,In Progress,High,2026-10-29
+5,Booking Confirmation,Teammate B,Blocked,Medium,2026-10-26
+6,Hotel Image Gallery,Teammate C,To Do,Low,2026-10-31
